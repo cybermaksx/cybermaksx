@@ -2,6 +2,7 @@
 
 <div align="center">
 
+<img src="https://cybermaksx.com/assets/avatar.jpg" width="180" alt="cybermaksx"/>
 
 ```bash
 root@iusearchbtw:~# whoami
@@ -9,14 +10,20 @@ root@iusearchbtw:~# whoami
 
 # cybermaksx
 
-*offensive security · ethical hacker · pinkhat · 1337 farmer · mandarin enjoyer*
+*offensive security · ethical hacker · pinkhat · 1337 farmer*
+
+*"I'm still learning. That's not a disclaimer, that's the whole job."*
 
 [![Arch](https://img.shields.io/badge/i_use-Arch_btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
-[![ThinkPad](https://img.shields.io/badge/hardware-ThinkPad-EE0000?style=for-the-badge&logo=lenovo&logoColor=white)](#)
+[![ThinkPad](https://img.shields.io/badge/hardware-ThinkPad_T14-EE0000?style=for-the-badge&logo=lenovo&logoColor=white)](#)
+[![Fuel](https://img.shields.io/badge/fuel-Nescaf%C3%A9_3in1-6F4E37?style=for-the-badge)](#)
+[![Camel](https://img.shields.io/badge/smoke-Camel-D2B48C?style=for-the-badge)](#)
+
 [![eJPT](https://img.shields.io/badge/cert-eJPT_✓-brightgreen?style=for-the-badge)](#)
-[![OSCP](https://img.shields.io/badge/cert-OSCP_in_progress-orange?style=for-the-badge)](#)
+[![CPTS](https://img.shields.io/badge/cert-CPTS_in_progress-FF8C00?style=for-the-badge)](#)
+[![OSCP](https://img.shields.io/badge/cert-OSCP_queued-6e6e6e?style=for-the-badge)](#)
 [![HTB](https://img.shields.io/badge/Hack_The_Box-active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
-[![Site](https://img.shields.io/badge/cybermaksx.com-→-FF2D78?style=for-the-badge)](https://cybermaksx.com)
+[![THM](https://img.shields.io/badge/TryHackMe-top_1%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
 </div>
 
@@ -28,10 +35,12 @@ root@iusearchbtw:~# cat /etc/identity
 
 ```yaml
 name:        cybermaksx
-os:          Arch Linux              # obviously
-hardware:    ThinkPad X1             # real ones don't use MacBooks
+os:          CachyOS                 # arch, but it goes faster. i use arch btw.
+hardware:    ThinkPad T14 · 32GB     # real ones don't use MacBooks
 hat:         pink                    # not black. not white. PINK.
-focus:       offensive security      # web exploitation · privesc · AD
+focus:       learning everything     # AD · privesc · forensics · tooling · CVEs
+method:      build it, then break it # if i didn't write it, i didn't learn it
+coffee:      Nescafé 3-in-1          # sugar, creamer, regret. all pre-mixed.
 cigarettes:  Camel                   # no filter on the exploits either
 whisky:      Islay single malt       # no ice. no water. no mercy.
 chess_elo:   1600                    # calculated. like the attack chain.
@@ -43,27 +52,35 @@ threat:      👁️  always watching
 ---
 
 
+
+---
+
 ```
 root@iusearchbtw:~# cat /proc/philosophy
 ```
 
-```
-  №1  Find what automated tools miss. That's the actual skill.
-  №2  TrackPoint or death. The nub never disconnects.
-  №3  Arch is not an OS. It's a moral stance.
-  №4  100 sheep = 100 nodes. distributed. woolly. undetectable.
-  №5  Light a Camel. Trace the vuln back to the design decision.
-  №6  Trolling is a art. [sic] — intentional.
-```
+> **Automation finds the easy 80%.** The other 20% is the job.
+>
+> **If you didn't write it, you didn't learn it.** Reading a writeup is not the same as owning the box.
+>
+> **Breadth first.** You can't pick a specialty you've never touched.
+>
+> **The boring modules win engagements.** Nobody gets domain admin off the cool exploit.
+>
+> **TrackPoint or death.** The nub never disconnects.
+>
+> **Trolling is a art.** [sic] — intentional.
 
 ---
 
 <div align="center">
 
+```bash
+root@iusearchbtw:~# exit
+logout
+Connection to cybermaksx closed.
 ```
-┌──────────────────────────────────────────────────────┐
-│   root@iusearchbtw:~# echo $MOTTO                   │
-│                                                      │
-│   "Think. Enumerate. Exploit. Eat mandarins."       │
-│                                                      │
-│   uptime: 1337 days  |  [■] nub active  |  👁️       │
+
+[cybermaksx.com](https://cybermaksx.com)
+
+</div>
